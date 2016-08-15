@@ -1,0 +1,9 @@
+{
+    "files": [
+        {"name": "framework.jar"},
+        {"name": "framework-res.apk"},
+        {"name": "services.jar"},
+        {"name": "boot.art"},
+        {"name": "boot.oat"}
+    ]
+}
